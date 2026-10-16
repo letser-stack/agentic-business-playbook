@@ -1,0 +1,26 @@
+Author: 梭哈.AI (@SUOHA_AI)
+URL: https://x.com/SUOHA_AI/status/2110614394551906648
+Created: 2026-10-15T06:10:59Z (14:10 UTC+8)
+Quotes: https://x.com/i/status/2110181971280433613
+
+连马斯克都亲自转发认可的 Grok Bot 实战视频
+
+作者 Alex Finn 用 Grok Bot 搭建全自动微型商业帝国的复盘视频，全片仅仅 20 分钟，Stripe 后台直接真金白银入账 $1,100 美金，我已翻译为中文双语版本，分享给大家
+
+在这 20 分钟里，你能完整学会一套真实的 Agentic Income（智能体被动收入） 闭环：
+
+1. 一句话任命“虚拟 CEO”： 教你把 Grok Bot 命名为 Timothy 并赋予 CEO 职位，让它自己给自己拆解需求、排定工作流，无需人工天天催
+
+2. 搭建后台自动化巡检（Routines）： 设置每日自动触发机制，每天早上自动全网抓取最新落地案例、自动排查网站 Bug、全天候监控社交媒体反馈
+
+3. 0 成本跑通现金流闭环： 手把手带你用 Vercel 免费部署建站 + Resend 自动发邮件沉淀订阅 + 接入 Stripe 自动收赞助费，把 Agent 变成你的 24 小时收单机器
+
+---
+Quoted post (Alex Finn, author_id 1369348853414178822, 2026-10-14T01:32:41Z):
+Grok Bot built me a completely autonomous business which has already generated $1,100
+
+I think this is the future of the economy
+
+Everyone's agents building and launching microbusinesses autonomously
+
+In this video I walk you through step by step how to set up your own: https://t.co/UZ9eVB2U1w
